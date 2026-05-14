@@ -1,6 +1,3 @@
-# GNU Make — use from MSYS2 / Git Bash, or `mingw32-make` on PATH with gcc.
-# Mirrors flags from build.bat; links Win32 GDI/user/kernel.
-
 CC      := gcc
 CFLAGS  := -Wall -Wextra -std=c99
 LDFLAGS :=
